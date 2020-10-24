@@ -55,8 +55,8 @@ TAIWAN, China
 ### **SANJIN CAPITAL/GLOBAL FORTUNE UNITED** `Jul. 2017 - `
 
 _Portfolio Manager_<br>
-* Develope a AI driven trading algo to trade A stock
-* Short-term quantitive factor mining with machine learning
+* Develop a AI driven trading algo to trade A stock
+* Short-term quantitative factor mining with machine learning
 * Pilot algo-trading of derivatives including options and futures
 
 ### **CICC** `Jul. 2015 - Jul. 2017`
