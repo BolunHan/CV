@@ -68,8 +68,8 @@ _Sales Trader_<br>
 
 ## Honors & Awards
 
-May Fourth Scholarship `PKU, 2012` <br>
-May Fourth Youth Science Award, Third Prize `PKU, 2013` <br>
+May Fourth Scholarship `PEKING UNIVERSITY, 2012` <br>
+May Fourth Youth Science Award, Third Prize `PEKING UNIVERSITY, 2013` <br>
 
 ## Skill Set
 
