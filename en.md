@@ -74,8 +74,8 @@ May Fourth Youth Science Award, Third Prize `PKU, 2013` <br>
 ## Skill Set
 
 _Language_: Fluent in English <br>
-_Programing_:  Master in Python C#
-_Trade_: Excel in brokerage, intraday derivative trading, intraday Alpha trading
+_Programing_:  Master in Python, C# <br>
+_Trade_: Excel in brokerage, intraday derivative trading, intraday Alpha trading <br>
 
 <!-- ### Footer
 
