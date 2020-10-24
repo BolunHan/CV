@@ -4,7 +4,7 @@ title:
 email:
   url: mailto:Bolun.Han@outlook.com
   text: Bolun.Han@outlook.com
-tel:
+phone:
   url: tel:+8615652937390
   text: (86) 156-5293-7390
 ---
