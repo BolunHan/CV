@@ -15,7 +15,11 @@ $('#cmd').click(function () {
 });
 </script>
 
-Personal CV hosted by Github Pages
+# Personal CV hosted by Github Pages
+
+<p>
+Graduated from Peking University in 2016, majored in finance and physics, Bolun Han had joined CICC EQ. Department and became a cross-boarder sales trader. In 2017, I left CICC and joined the GLOBAL FORTUNE UNITED and started the career as an AI engineer focusing on short-term quantitative factor mining and Intraday trading.
+</p>
 
 <ul>
     <li><a href="https://BolunHan.github.io/CV/en">CV-en</a></li>
@@ -28,4 +32,4 @@ Personal CV hosted by Github Pages
     <li><button id="cmd">Export PDF</button></li>
 </ul>
 
-last update: `2020-10-24`
+last update: `2020-12-16`
