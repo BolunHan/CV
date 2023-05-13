@@ -50,6 +50,15 @@ TAIWAN, China
 - Exchange Program
 - Courses studied include: Derivatives Trading, Options and Future, etc.
 
+### **SCHOOL OF SOCIAL SCIENCE, NANYANG TECHNOLOGICAL UNIVERSITY** `Oct. 2022 - Jan. 2024`
+
+```
+SINGAPORE
+```
+
+- Master Program
+- Courses studied include: Machine Learning, AI, Blockchain Programming.
+
 ## Experience
 
 ### **SANJIN CAPITAL/GLOBAL FORTUNE UNITED** `Jul. 2017 - `
@@ -58,6 +67,7 @@ _Portfolio Manager_<br>
 * Develop a AI driven trading algo to trade A stock
 * Short-term quantitative factor mining with machine learning
 * Pilot algo-trading of derivatives including options and futures
+* Write, built, deployed and maintained intraday trading algo, colocationed at exchange server station.
 
 ### **CICC** `Jul. 2015 - Jul. 2017`
 
