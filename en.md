@@ -44,7 +44,7 @@ Beijing
 ### **SCHOOL OF MANAGEMENT, NATIONAL TAIWAN UNIVERSITY** `Sep. 2014 - Jan. 2015`
 
 ```
-TAIWAN, China
+Taiwan, China
 ```
 
 - Exchange Program
@@ -53,7 +53,7 @@ TAIWAN, China
 ### **SCHOOL OF SOCIAL SCIENCE, NANYANG TECHNOLOGICAL UNIVERSITY** `Oct. 2022 - Jan. 2024`
 
 ```
-SINGAPORE
+Singapore
 ```
 
 - Master Program
@@ -61,7 +61,7 @@ SINGAPORE
 
 ## Experience
 
-### **SANJIN CAPITAL/GLOBAL FORTUNE UNITED** `Jul. 2017 - `
+### **SANJIN CAPITAL/GLOBAL FORTUNE UNITED** `Jul. 2017 - Oct. 2022`
 
 _Portfolio Manager_<br>
 * Develop a AI driven trading algo to trade A stock
