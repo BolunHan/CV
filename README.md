@@ -1,20 +1,3 @@
-<script>
-var doc = new jsPDF();
-var specialElementHandlers = {
-    '#editor': function (element, renderer) {
-        return true;
-    }
-};
-
-$('#cmd').click(function () {
-    doc.fromHTML($('#content').html(), 15, 15, {
-        'width': 170,
-            'elementHandlers': specialElementHandlers
-    });
-    doc.save('cv.pdf');
-});
-</script>
-
 # Personal CV of Han Bolun
 
 <p>
@@ -41,7 +24,19 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 <ul>
     <li><a href="https://BolunHan.github.io/CV/en">英文简历</a></li>
     <li><a href="https://BolunHan.github.io/CV/zh">中文简历</a></li>
-    <li><button id="cmd">Export PDF</button></li>
+    <li><button id="printButton">export CV</button></li>
 </ul>
 
-last update: `2020-12-16`
+<script>
+    document.getElementById("printButton").addEventListener("click", function () {
+        // Open the webpage in a new window or tab
+        var newWindow = window.open("https://bolunhan.github.io/CV/zh", "_blank");
+
+        // Wait for the webpage to load, then print it
+        newWindow.onload = function () {
+            newWindow.print();
+        };
+    });
+</script>
+
+last update: `Sep. 2023`
