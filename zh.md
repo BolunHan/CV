@@ -7,9 +7,6 @@ email:
 phone:
   url: tel:+8615652937390
   text: (86) 156-5293-7390
-homepage:
-  url: https://bolunhan.github.io/CV
-  text: https://bolunhan.github.io/CV
 ---
 
 # 韩博伦
