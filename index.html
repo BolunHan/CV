@@ -273,25 +273,23 @@ Graduated from Peking University in 2016, majored in finance and physics, Han Bo
 </p><p>2017&#x5E74;&#x79BB;&#x5F00;&#x4E2D;&#x91D1;&#x516C;&#x53F8;&#xFF0C;&#x52A0;&#x5165;&#x4E0A;&#x6D77;&#x946B;&#x665F;&#x6295;&#x8D44;&#x7BA1;&#x7406;&#x6709;&#x9650;&#x516C;&#x53F8;&#x5F00;&#x59CB;&#x4E86;&#x91CF;&#x5316;&#x5DE5;&#x7A0B;&#x5E08;&#x7684;&#x804C;&#x4E1A;&#x751F;&#x6DAF;&#xFF0C;&#x4E13;&#x6CE8;&#x4E8E;&#x77ED;&#x7EBF;&#x91CF;&#x5316;&#x56E0;&#x5B50;&#x6316;&#x6398;&#x548C;&#x65E5;&#x5185;&#x4EA4;&#x6613;&#x3002;</p>
 <p>2022&#x5E74;11&#x6708;&#xFF0C;&#x6211;&#x91CD;&#x8FD4;&#x6821;&#x56ED;&#xFF0C;&#x5728;&#x5357;&#x6D0B;&#x7406;&#x5DE5;&#x5927;&#x5B66;&#x653B;&#x8BFB;&#x5E94;&#x7528;&#x7ECF;&#x6D4E;&#x5B66;&#x7855;&#x58EB;&#x5B66;&#x4F4D;&#x3002;</p>
 <p></p>
-<ul>
-<li><a href="https://BolunHan.github.io/CV/en">CV-en</a></li>
-<li><a href="https://BolunHan.github.io/CV/zh">CV-zh</a></li>
-</ul>
-<ul>
-<li><a href="https://BolunHan.github.io/CV/en">&#x82F1;&#x6587;&#x7B80;&#x5386;</a></li>
-<li><a href="https://BolunHan.github.io/CV/zh">&#x4E2D;&#x6587;&#x7B80;&#x5386;</a></li>
-<li><button id="printButton">export CV</button></li>
-</ul>
+<table style="border-collapse: collapse; width=100%">
+<tbody><tr>
+    <td><a href="https://bolunhan.github.io/CV/zh" target="_blank">&#x4E2D;&#x6587;&#x7B80;&#x5386;</a></td>
+    <td><button onclick="printPage(&apos;https://bolunhan.github.io/CV/zh&apos;)">&#x5BFC;&#x51FA;&#x7B80;&#x5386;</button></td>
+</tr>
+<tr>
+    <td><a href="https://bolunhan.github.io/CV/en" target="_blank">English CV</a></td>
+    <td><button onclick="printPage(&apos;https://bolunhan.github.io/CV/en&apos;)">Export CV</button></td>
+</tr>
+</tbody></table>
 <script>
-document.getElementById("printButton").addEventListener("click", function () {
-    // Open the webpage in a new window or tab
-    var newWindow = window.open("https://bolunhan.github.io/CV/zh", "_blank");
-
-    // Wait for the webpage to load, then print it
+function printPage(url) {
+    var newWindow = window.open(url, "_blank");
     newWindow.onload = function () {
         newWindow.print();
     };
-});
+}
 </script>
 <p>last update: <code>Sep. 2023</code></p>
 

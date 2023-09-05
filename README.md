@@ -16,27 +16,24 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 2022年11月，我重返校园，在南洋理工大学攻读应用经济学硕士学位。
 </p>
 
-<ul>
-    <li><a href="https://BolunHan.github.io/CV/en">CV-en</a></li>
-    <li><a href="https://BolunHan.github.io/CV/zh">CV-zh</a></li>
-</ul>
-
-<ul>
-    <li><a href="https://BolunHan.github.io/CV/en">英文简历</a></li>
-    <li><a href="https://BolunHan.github.io/CV/zh">中文简历</a></li>
-    <li><button id="printButton">export CV</button></li>
-</ul>
+<table style="border-collapse: collapse; width=100%">
+    <tr>
+        <td><a href="https://bolunhan.github.io/CV/zh" target="_blank">中文简历</a></td>
+        <td><button onclick="printPage('https://bolunhan.github.io/CV/zh')">导出简历</button></td>
+    </tr>
+    <tr>
+        <td><a href="https://bolunhan.github.io/CV/en" target="_blank">English CV</a></td>
+        <td><button onclick="printPage('https://bolunhan.github.io/CV/en')">Export CV</button></td>
+    </tr>
+</table>
 
 <script>
-    document.getElementById("printButton").addEventListener("click", function () {
-        // Open the webpage in a new window or tab
-        var newWindow = window.open("https://bolunhan.github.io/CV/zh", "_blank");
-
-        // Wait for the webpage to load, then print it
+    function printPage(url) {
+        var newWindow = window.open(url, "_blank");
         newWindow.onload = function () {
             newWindow.print();
         };
-    });
+    }
 </script>
 
 last update: `Sep. 2023`
