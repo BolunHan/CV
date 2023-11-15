@@ -33,6 +33,7 @@ Please provide the HTML code following these specifications when converting the 
 
 <!-- Your HTML content goes here -->
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,7 +49,8 @@ Please provide the HTML code following these specifications when converting the 
         }
 
         h1 {
-            color: rgb(233, 233, 238); /* Text color */
+            color: rgb(233, 233, 238);
+            /* Text color */
         }
 
         p {
@@ -69,14 +71,18 @@ Please provide the HTML code following these specifications when converting the 
             border-collapse: collapse;
             width: 100%;
             margin-top: 20px;
-            border-radius: 10px; /* Rounded corners for the table */
-            border: 1px solid rgb(233, 233, 238); /* Text color */
+            border-radius: 10px;
+            /* Rounded corners for the table */
+            border: 1px solid rgb(233, 233, 238);
+            /* Text color */
         }
 
-        th, td {
+        th,
+        td {
             padding: 8px;
             text-align: left;
-            border: 1px solid rgb(233, 233, 238); /* Text color */
+            border: 1px solid rgb(233, 233, 238);
+            /* Text color */
         }
 
         button {
@@ -93,7 +99,8 @@ Please provide the HTML code following these specifications when converting the 
         }
     </style>
 </head>
-<body>    
+
+<body>
     <h1>Personal CV of Han Bolun</h1>
 
     <p>
@@ -109,15 +116,18 @@ Please provide the HTML code following these specifications when converting the 
     </p>
 
     <p>
-      Graduated from Peking University in 2016, majored in finance and physics, Han Bolun had joined CICC EQ. Department and became a cross-border sales trader.
+        Graduated from Peking University in 2016, majored in finance and physics, Han Bolun had joined CICC EQ.
+        Department and became a cross-border sales trader.
     </p>
 
     <p>
-        In 2017, I left CICC and joined the GLOBAL FORTUNE UNITED and started the career as an AI engineer focusing on short-term quantitative factor mining and Intraday trading.
+        In 2017, I left CICC and joined the GLOBAL FORTUNE UNITED and started the career as an AI engineer focusing on
+        short-term quantitative factor mining and Intraday trading.
     </p>
 
     <p>
-        In November 2022, I returned to campus to pursue a Master of Science in Applied Economics at Nanyang Technological University.
+        In November 2022, I returned to campus to pursue a Master of Science in Applied Economics at Nanyang
+        Technological University.
     </p>
 
     <table>
@@ -140,6 +150,101 @@ Please provide the HTML code following these specifications when converting the 
         }
     </script>
 
-    <p>Last update: Sep. 2023</p>
+    <p>主要工作经历和方法论:</p>
+    <ul>
+        <li>中性策略 (alpha) 策略，
+            <ul>
+                <li>持仓周期约5天</li>
+                <li>基于深度学习</li>
+                <li>年化约12%，最大回撤约5%。</li>
+                <li>无市场多头暴露，但有较大行业暴露。</li>
+            </ul>
+        </li>
+        <li>日内策略-实盘
+            <ul>
+                <li>基于机器学习，Markov Chain, 设计了不同的regime，并在regime change的时候下单</li>
+                <li>应用在自营的股票仓位中。</li>
+                <li>另外用来给一些票做市值管理。</li>
+            </ul>
+        </li>
+        <li>日内策略-研究
+            <ul>
+                <li>基于量价的因子挖掘（股票），采用遗传算法迭代优化。</li>
+                <li>事件,情绪因子的挖掘（股票），与外部服务商合作。</li>
+                <li>crypto的做市算法，与一些矿主进行的合作。</li>
+                <li>基于成分的量价以及关系等信息，开发的指数因子。</li>
+            </ul>
+        </li>
+        <li>算法交易-实盘
+            <ul>
+                <li>为日内策略和其他自营策略，设计智能算法</li>
+                <li>基于lv2 transaction 数据</li>
+                <li>在保证成交量和时限的情况下尽可能追求最佳价格</li>
+            </ul>
+        </li>
+        <li>其他量化相关工作</li>
+        <li>实盘的风控等系统</li>
+        <li>场外期权定价系统</li>
+        <li>期权做市算法</li>
+        <li>应用深度学习等算法，对公司其他策略进行优化</li>
+    </ul>
+    <p>Basic Experience:</p>
+    <ul>
+        <li>Graduated from Peking University in 2016 and subsequently joined CITIC Securities as a trader.</li>
+        <li>In 2017, co-founded Global Fortune Management Co., Ltd. with the former EQ department head.</li>
+        <li>From 2017 to 2020, focused on medium to low-frequency quantitative research, including alpha market-neutral
+            strategies and multi-factor stock selection strategies.</li>
+        <li>Started developing high-frequency quantitative strategies in 2020, involving factor discovery and machine
+            learning.</li>
+        <li>Successfully deployed high-frequency strategies in 2022.</li>
+        <li>Pursued postgraduate studies in Singapore from October 2022 to November 2023, and have since returned to
+            China.</li>
+    </ul>
+    <p>Main Work Experience and Methodology:</p>
+    <ul>
+        <li>Alpha Strategies (Market-Neutral):
+            <ul>
+                <li>Holding period of approximately 5 days.</li>
+                <li>Utilized deep learning techniques.</li>
+                <li>Achieved an annualized return of about 12% with a maximum drawdown of around 5%.</li>
+                <li>Remained unaffected by overall market long exposure but exhibited significant industry risk
+                    exposure.</li>
+            </ul>
+        </li>
+        <li>Intraday Strategies (Online):
+            <ul>
+                <li>Employed machine learning and Markov Chain to design different market regimes and execute trades
+                    during regime changes.</li>
+                <li>Applied for proprietary stock position management and market capitalization management for specific
+                    stocks.</li>
+            </ul>
+        </li>
+        <li>Intraday Strategy (Research):
+            <ul>
+                <li>Conducted factor mining based on volume-price relationships for stocks using genetic algorithms for
+                    iterative optimization.</li>
+                <li>Collaborated with external service providers for event and sentiment factor mining for stocks.</li>
+                <li>Developed market-making algorithms for cryptocurrencies in cooperation with some miners.</li>
+                <li>Created index factors based on constituents, volume-price relationships, and other information.</li>
+            </ul>
+        </li>
+        <li>Algorithmic Trading in Practice:
+            <ul>
+                <li>Designed intelligent algorithms for intraday strategies and other proprietary strategies.</li>
+                <li>Utilized Level-2 transaction data.</li>
+                <li>Strived for optimal prices while ensuring volume and timeliness.</li>
+            </ul>
+        </li>
+        <li>Other Quantitative-Related Work:
+            <ul>
+                <li>Real-time risk control systems for trading.</li>
+                <li>Over-the-counter option pricing systems.</li>
+                <li>Option market-making algorithms.</li>
+                <li>Applied deep learning and other algorithms to optimize the company's other strategies.</li>
+            </ul>
+        </li>
+    </ul>
+    <p>last update: <code>Nov. 2023</code></p>
 </body>
+
 </html>
