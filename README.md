@@ -14,6 +14,8 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 2017年离开中金公司，加入上海鑫晟投资管理有限公司开始了量化工程师的职业生涯，专注于短线量化因子挖掘和日内交易。
 
 2022年11月，我重返校园，在南洋理工大学攻读应用经济学硕士学位。
+
+2024年，创立周大福新能源（上海）有限责任公司，主管A股高频交易。
 </p>
 
 <!--
@@ -44,7 +46,8 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 - 2017 - 2020 年，从事中低频量化研究，包括 alpha市场中性策略，多因子选股等策略。
 - 2020 年开始进行高频量化策略开发：包括因子挖掘，机器学习等。
 - 2022 年上线部署量化高频策略。
-- 2022-10 至 2023-11 于新加坡南洋理工攻读 MSAE 项目，现已归国。
+- 2022-10 至 2023-11 于新加坡南洋理工攻读 MSAE 项目。
+- 2024年至今，创立周大福新能源（上海）有限责任公司，任高频量化研究副总裁。
 
 主要工作经历和方法论:
 - 中性策略 (alpha) 策略，
@@ -70,7 +73,7 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 - 场外期权定价系统
 - 期权做市算法
 - 应用深度学习等算法，对公司其他策略进行优化
-
+- 
 Basic Experience:
 - Graduated from Peking University in 2016 and subsequently joined CITIC Securities as a trader.
 - In 2017, co-founded Xinxin Investment Management Co., Ltd. with the former EQ department head.
@@ -103,4 +106,4 @@ Main Work Experience and Methodology:
     - Option market-making algorithms.
     - Applied deep learning and other algorithms to optimize the company's other strategies.
 
-last update: `Nov. 2023`
+last update: `Mar. 2024`
