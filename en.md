@@ -61,7 +61,7 @@ Singapore
 
 ## Experience
 
-### **CHOW TAI FOOK NEW ENERGY (SHANGHAI) LIMITED** `2024.3 - Now`
+### **CHOW TAI FOOK NEO ENERGY (SHANGHAI) LIMITED** `2024.3 - Now`
 
 *Vice President*<br>
 
@@ -74,7 +74,7 @@ Singapore
     - Established factor-based high-frequency futures index CTA strategy
 3. Quantitative Stock Selection
     - Developed and operated a high-frequency factor stock picking platform and conducted research on low-frequency trading of high-frequency factors.
-    - Established corresponding quantitative stock picking neutral strategies.
+    - Established corresponding quantitative stock selection market-neutral strategies.
 
 ### **SANJIN CAPITAL/GLOBAL FORTUNE UNITED** `Jul. 2017 - Oct. 2022`
 
