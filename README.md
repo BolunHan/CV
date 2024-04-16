@@ -15,7 +15,7 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 
 2022年11月，我重返校园，在南洋理工大学攻读应用经济学硕士学位。
 
-2024年，创立周大福新能源（上海）有限责任公司，主管A股高频交易。
+2024年，创立周大福新能源（上海）有限责任公司北分，主管A股高频交易。
 </p>
 
 <!--
@@ -73,7 +73,7 @@ In November 2022, I returned to campus to pursue an Master of Science in Applied
 - 场外期权定价系统
 - 期权做市算法
 - 应用深度学习等算法，对公司其他策略进行优化
-- 
+
 Basic Experience:
 - Graduated from Peking University in 2016 and subsequently joined CITIC Securities as a trader.
 - In 2017, co-founded Xinxin Investment Management Co., Ltd. with the former EQ department head.
